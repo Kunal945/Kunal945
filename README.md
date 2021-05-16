@@ -1,5 +1,4 @@
 I'm a recent graduate🎓 of 2021 looking for fun things to do and learn during this time of quarantine🕥😷. I'm currently going to start full-time training as a System Engineer at Infosys.
-image
 
 What I'm doing currently:
 Under Training as a .NET Application Developer Associate at Accenture.
@@ -12,14 +11,13 @@ Brushing up on languages and learning new libraries:
  Learning advanced Java concepts and Spring MVC 📖
 Practicing new techniques in digital art 🎨
 check out some of my recent favourites here 👈
-Technologies I work with:
-JAVA                     JAVASCRIPT 
-HTML                   CSS 
-PYTHON              SQL 
-XML                         JSON 
-BASH                       PHP 
-C++                         C# 
-.NET                         ADO
+Technologies I work with 
+
+HTML                     CSS 
+PYTHON                   SQL  
+BASH                     PHP 
+C++                      C 
+hadoop                   Bigdata
 
 My Skills:
 Communication skills 💬
