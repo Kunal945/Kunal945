@@ -1,4 +1,4 @@
-I'm a recent graduate🎓 of 2021 looking for fun things to do and learn during this time of quarantine🕥😷. I'm currently going to start full-time training as a Digital specialist Programmer at Infosys.
+I'm a recent graduate🎓 of 2021 looking for fun things to do and learn during this time of quarantine🕥😷. I'm currently going to start full-time training as a Digital specialist engineer at Infosys.
 
 What I'm doing currently:
 Working on hobby projects during quarantine to make things better for users ☺️💞
