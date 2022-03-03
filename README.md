@@ -1,20 +1,12 @@
-I'm a recent graduate🎓 of 2021 looking for fun things to do and learn during this time of quarantine🕥😷. I'm currently going to start full-time training as a Digital specialist engineer at Infosys.
-
-What I'm doing currently:
-Working on hobby projects during quarantine to make things better for users ☺️💞
-Brushing up on languages and learning new libraries:
- Brushing up on Data Structures and Object-Oriented Programming concepts📚
- Learning advanced concepts of vanilla JS 🍦
-Practicing new techniques in digital art 🎨
-check out some of my recent favourites here 👈
-Technologies I work with 
-
-HTML                     CSS 
-PYTHON                   SQL  
-BASH                     PHP 
-C++                      C 
+I'm graduate🎓 of 2021 from lakshmi Narain College Of Technology in Btech Information technology🕥😷. I'm currently working full-time as a Digital specialist engineer at Infosys.
+What I'm doing currently
+Working on hobby projects during free time☺️💞
+Brushing up on languages and learning new libraries and technology📚
+Technologies I work with  
+PYTHON                   SQL   
 hadoop                   Bigdata
-
+Spark                    S
+Microsoft Aure Fundamental
 My Skills:
 Communication skills 💬
 People person 👫
@@ -27,7 +19,6 @@ Favourite song: Its change according to time
 Where I'm from:
 =============== 🌏 India 🌏 ==============
 Born and raised in bokaro, Jharkhand, India.. I've been exposed to the variety of culture and food 💎💎
-
 Jai Hind!
 Favourites: 💯💯
 ♥️ coding 💻
